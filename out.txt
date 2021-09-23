@@ -1,0 +1,15 @@
+**********************************************
+Exactinline called is : 0
+Assumptioninline called is : 0
+Multitypeinline called is : 0
+TypeGuardinline called is : 0
+Monomorphic calls : 0 Bimorphic calls : 0 Polymorphic Calls : 0
+**************************************
+Printing Data after Shutdown
+**********************************************
+Exactinline called is : 616
+Assumptioninline called is : 0
+Multitypeinline called is : 0
+TypeGuardinline called is : 162
+Monomorphic calls : 778 Bimorphic calls : 0 Polymorphic Calls : 0
+**************************************
